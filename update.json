@@ -1,0 +1,7 @@
+{
+  "darwin-x64-prod": {
+    "readme": "Second Release",
+    "update": "https://github.com/sorrycc/test-release/releases/download/1.2.0/release.json",
+    "version": "0.2.0"
+  }
+}
